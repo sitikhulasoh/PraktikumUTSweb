@@ -21,7 +21,10 @@
 - kemudian buka file "index.html" pada browser guna melihat hasilnya.
 
 - HASILNYA
-![Uploading 4 (2).png…]()
+
+
+
+
 
 
 
