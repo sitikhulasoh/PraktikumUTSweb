@@ -21,6 +21,8 @@
 - kemudian buka file "index.html" pada browser guna melihat hasilnya.
 
 - HASILNYA
+![4 (2)](https://user-images.githubusercontent.com/56240533/117026638-240b1280-ad26-11eb-9840-8c339d86b331.png)
+![5 (2)](https://user-images.githubusercontent.com/56240533/117026500-0ccc2500-ad26-11eb-89fd-7a1205cfdd61.png)
 
 
 
