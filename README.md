@@ -16,12 +16,12 @@
 ![2 (2)](https://user-images.githubusercontent.com/56240533/117009219-b5be5400-ad15-11eb-923b-eeeca5b5cbb5.png)
 - Kemudian pbuatlah folder "gambar" untuk menyimpan folder yang akan kita gunakan
 ![3 (2)](https://user-images.githubusercontent.com/56240533/117009414-ea321000-ad15-11eb-84bf-c2cefae23a18.png)
-- kemudian buatlah file "index.html" setelah itu tambahkan script kode HTML untuk menghubungkan file HTML dengan css, berikut kode
-<link rel="stylesheet" href="css/tampilan.css">
-- kode script untuk memanggil file gambar 
-<img src="nama file" alt="Teks alternatifnya">
+- kemudian buatlah file "index.html" setelah itu tambahkan script kode HTML untuk menghubungkan file HTML dengan css, 
 - lalu buatlah file baru dengan nama css, kemudian tulis semua source codenya.
 - kemudian buka file "index.html" pada browser guna melihat hasilnya.
 
 - HASILNYA
+![Uploading 4 (2).png…]()
+
+
 
